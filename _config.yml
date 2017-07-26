@@ -1,6 +1,6 @@
 # Jekyll configuration
 
-name: Blog Name
+name: Fan Blog
 description: Software Developer
 
 # Url is currently only used only for the RSS feed in feed.xml
@@ -36,7 +36,7 @@ yandex_metrica:
 # setting below must also be true. Individual posts can override 'comments' to
 # disable on a post-by-post basis
 disqus: streetturtle
-comments: false
+comments: true
 
 permalink: /:year/:month/:title
 
